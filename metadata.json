@@ -1,0 +1,8 @@
+{
+  "name": "Remix FB Limited",
+  "description": "একটি বিশেষ ব্রাউজার যা limited.facebook.com ওয়েবসাইটটি সুন্দরভাবে ওপেন করে এবং এতে ডাটা ক্লিয়ার ও রিলোড করার সুবিধা রয়েছে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
